@@ -33,4 +33,4 @@ $ python search.py linear ~/data/slate
 4530 files
 Search terms: Reagan Iran
 ```
-After we enter the search terms and hit return, the Python program pops up the default browser on the HTML file we have just generated as a result of the search.
+After you enter the search terms and hit return, the Python program pops up your default browser on the HTML file you have just generated as a result of the search.
